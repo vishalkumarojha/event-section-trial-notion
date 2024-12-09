@@ -433,4 +433,7 @@ header nav a{
         float: right;
     }
 }
+.carousel .list {
+    transition: transform 0.5s ease;
+}
 
